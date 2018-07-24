@@ -5,7 +5,7 @@ It's the SKA summer internship project, astronomical image reconstruction using 
 note the line 294 in nufft_init.m, run with normal.
 
 * lib:
-Matlab wavelet toolbox
+Matlab wavelet toolbox, 
 Matlab Statistics and Machine Learning Toolbox Apps
 
 * Progress：
