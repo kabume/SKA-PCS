@@ -8,6 +8,6 @@ Comment out the line 294 in nufft_init.m, run with normal.
 Matlab wavelet toolbox, 
 Matlab Statistics and Machine Learning Toolbox Apps.
 
-* Progress：
+* Progress:
 Using Matlab Coder to convert code, sparse matrix is a problem.
 Maybe we can use matlab parallel computing toolbox,it supports MPI&CUDA as well.
