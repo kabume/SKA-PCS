@@ -1,6 +1,7 @@
 # SKA-PCS
 It's the SKA summer internship project, astronomical image reconstruction using parallel compress sensing technique
 
+* debug
 error: op_nufft (line 25)
 fatrix2 has some very weird bugs with subindexing; force st.p to be a (sparse) matrix
 
@@ -12,7 +13,9 @@ error: script_get_input_data (line 189)
 
 error: test_main_all (line 196)
 script_get_input_data;
+
 note the line 294 in nufft_init.m, run with normal.
-lib:
+
+* lib:
 Matlab wavelet toolbox
 Matlab Statistics and Machine Learning Toolbox Apps
